@@ -2,6 +2,7 @@ body{
     margin: 0px;
     padding: 0px;
 }
+/* header */
 header{
     width: 1050px;
     height: 100px;
@@ -16,7 +17,9 @@ header{
     position: relative;
     bottom: -20px;
 }
+/* header */
 
+/* main */
 main{
     margin: 5px;
 }
@@ -42,18 +45,23 @@ main{
  figure{
      font-size: 12px;
      margin: 0px;
+     
+ }
+ p{
+    width: 1050px;
  }
  .back-yellow{
      background-color: yellow;
  }
  ul{
+    width: 1050px;
      position: relative;
      top: 15px;
  }
  table{
+    width: 1050px;
     text-align: left;
     border-collapse: collapse;
-    width: 100%;
     table-layout: fixed;
     position: relative;
     top: 30px;
@@ -70,6 +78,28 @@ main{
     background-color: lightblue
 }
 .lorem{
+    width: 1050px;
+    position: relative;
+    top: 60px;
+}
+/* main */
+
+/* footer */
+h2{
+    color: lightslategray;
+    position: relative;
+    top: 65px;
+    font-size: 18px ;
+    margin: 5px;
+}
+.foot-img1{
+    display: block;
+    margin: 5px;
+    position: relative;
+    top: 60px;
+}
+.foot-img2{
+    margin: 5px;
     position: relative;
     top: 60px;
 }
