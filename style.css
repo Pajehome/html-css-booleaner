@@ -39,3 +39,37 @@ main{
      color: lightslategray;
      font-size: 10px;
  }
+ figure{
+     font-size: 12px;
+     margin: 0px;
+ }
+ .back-yellow{
+     background-color: yellow;
+ }
+ ul{
+     position: relative;
+     top: 15px;
+ }
+ table{
+    text-align: left;
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+    position: relative;
+    top: 30px;
+    font-size: 16px;
+ }
+ .riga-pr{
+    color: white;
+    background-color: #03a9f4;
+} 
+ .riga-1{
+    background-color: lightblue;
+ }
+ .riga-3{
+    background-color: lightblue
+}
+.lorem{
+    position: relative;
+    top: 60px;
+}
